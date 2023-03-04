@@ -9,7 +9,6 @@ Code Function: Create Points with x,y,z positions based on the nested for-loop i
 */
 
 //Variable Declaration & Initialization
-```Vex
 v@loc = {0,0,0};
 float x,y,z = 0;
 for (int i = 0; i < 5; i++)
@@ -26,5 +25,4 @@ for (int i = 0; i < 5; i++)
     }
   } 
 }
-```
 //end of code
