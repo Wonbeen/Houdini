@@ -1,11 +1,11 @@
 /*
 Author: Ian Wonbeen Kim
-Date: Feb. 25, 2023
+Date: Mar. 4, 2023
 Language: Houdini Vex
 Program Version: Houdini FX Education Version 19.5.303
 Category: Vex, Sop, Point Wrangle, Details
 Key Functions: addpoint(geoself(), vector3);
-Code Function: Create Points with x,y,z positions based on the nested for-loop iterations.
+Code Function: DistanceBetween2Points
 */
 
 float d = length(@P); //length from the origin to the point P
